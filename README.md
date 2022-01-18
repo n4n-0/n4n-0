@@ -1,5 +1,5 @@
 # Hello, I am Dantavious 
-## I am a Computer Science major Student
+**I am a Computer Science major Student**
 - 👋🏽 I am currently working on developing FiveM Resources and a couple Discord Bots
 - 📖 I am currently learning Typescript and React. During 2022 I also want to learn to C#
 - 📭 You can reach me via discord or email
